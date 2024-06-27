@@ -16,8 +16,8 @@ This MATLAB code performs topology optimization for a cantilever beam using the 
 
 ## Installation
 
-1. Ensure you have MATLAB installed on your system.
-2. Clone this repository or download the `Canteliver_Moment.m` file.
+1. Ensure you have MATLAB 2022b or higher installed on your system.
+2. Clone this repository.
 
 ```bash
 git clone https://github.com/msdamzdh/TOLSF_InitialDesignEffectiveness.git
