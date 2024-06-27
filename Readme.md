@@ -20,7 +20,7 @@ This MATLAB code performs topology optimization for a cantilever beam using the 
 2. Clone this repository or download the `Canteliver_Moment.m` file.
 
 ```bash
-git clone https://github.com/yourusername/cantilever-optimization.git
+git clone https://github.com/msdamzdh/TOLSF_InitialDesignEffectiveness.git
 ```
 
 ## Usage
