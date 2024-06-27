@@ -11,7 +11,6 @@ This MATLAB code performs topology optimization for a cantilever beam using the 
 - [Visualization](#visualization)
 - [Output](#output)
 - [Customization](#customization)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -91,13 +90,6 @@ You can modify various aspects of the code:
 - Material properties: Modify the `MP` structure
 - Optimization parameters: Update the `OPP` structure
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-This GitHub README format provides a clear structure for users to understand how to use, configure, and customize the code. It also includes sections for contributing and licensing, which are common in GitHub repositories.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
