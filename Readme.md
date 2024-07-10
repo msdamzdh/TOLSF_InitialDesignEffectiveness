@@ -74,7 +74,8 @@ Set `OPP.SP = 1` to display the evolving optimized shape after each iteration.
 |Case4          | ![Case4](https://github.com/msdamzdh/TOLSF_InitialDesignEffectiveness/assets/155764233/4d079a8a-9d22-4740-9b63-7195cdd8b216)|
 |Case5          | ![Case5](https://github.com/msdamzdh/TOLSF_InitialDesignEffectiveness/assets/155764233/3a1ffe9b-44e5-4f8d-b6ca-2a3cca2b8026)|
 |Case6          | ![Case6](https://github.com/msdamzdh/TOLSF_InitialDesignEffectiveness/assets/155764233/51e3e730-ca88-49ce-b2a1-59464fbd1c61)|
-|Case7          | ![Uploading Case7.gif…]()|
+|Case7          | ![Case7](https://github.com/msdamzdh/TOLSF_InitialDesignEffectiveness/assets/155764233/8166d85e-a52b-46ab-bffc-03cf716f847a)
+|
 
 ## Output
 
