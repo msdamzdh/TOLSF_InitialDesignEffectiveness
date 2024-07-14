@@ -151,9 +151,9 @@ for i=1:ngp
         N_n = 0.25*[(1-e),(1+e),(e-1),-(1+e)];
         X_e = N_e*eXcor; X_n = N_n*eXcor;
         Y_e = N_e*eYcor;Y_n = N_n*eYcor;
-        ElemComp = [X_e Y_e;X_n Y_n];
-        detJ = det(ElemComp);
-        N_XY=ElemComp\[N_e;N_n];
+        J_matrix = [X_e Y_e;X_n Y_n];
+        detJ = det(J_matrix);
+        N_XY=J_matrix\[N_e;N_n];
         b = [kron(N_XY(1,:),[1,0]);kron(N_XY(2,:),[0,1]);...
             kron(N_XY(1,:),[0,1])+kron(N_XY(2,:),[1,0])];
         Bmatk(:,:,:,ngp*(i-1)+j) = repmat(b,1,1,noe,1);
